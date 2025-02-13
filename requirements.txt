@@ -1,0 +1,10 @@
+streamlit
+streamlit-drawable-canvas
+opencv-python
+pillow
+numpy
+matplotlib
+gradio
+PyQt5==5.15.9
+PyQtWebEngine==5.15.6
+plotly 
